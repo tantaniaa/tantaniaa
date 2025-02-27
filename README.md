@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tania</h1>
-<h3 align="center">a product enthusiast who learns how to code</h3>
 
-- 📫 How to reach me **taniaa2707@gmail.com**
+- 📫 **taniaa2707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
